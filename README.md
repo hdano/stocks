@@ -8,7 +8,6 @@ Please build a simple trading system as a pure REST API with the endpoints outli
 
 - Create an endpoint to let users place trades. When an order is placed we need to record the quantity of the stock the user wants to buy or sell. 
 - Create an endpoint to retrieve the total value invested in a single stock by a user. To calculate this - we need to sum all the value of all orders placed by the user for a single stock. Order value is calculated by multiplying quantity and stock price. 
-- Create an endpoint to retrieve the total value invested in a single stock by a user. 
 
 ## Running App
 

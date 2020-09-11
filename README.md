@@ -1,6 +1,6 @@
 # Stocks Trade API App
 
-Coded by Harrison Dano for Python Coding Test of FLEXISOURCEIT
+This is a simple Python/Django demo app coded by Harrison Dano to demonstrate Python and Django skills.
 
 ## Requirements
 
@@ -9,16 +9,6 @@ Please build a simple trading system as a pure REST API with the endpoints outli
 - Create an endpoint to let users place trades. When an order is placed we need to record the quantity of the stock the user wants to buy or sell. 
 - Create an endpoint to retrieve the total value invested in a single stock by a user. To calculate this - we need to sum all the value of all orders placed by the user for a single stock. Order value is calculated by multiplying quantity and stock price. 
 - Create an endpoint to retrieve the total value invested in a single stock by a user. 
-
-What we will be considering: 
-
-- Following best practices of python3 and PEP8 
-- Following Django best practices 
-- Use of the Django ORM 
-- Good testing practices 
-- Following good object oriented design principles 
-- Extending the outlined functionality is encouraged but not at the cost of code quality 
-- application of SOLID principles in the designs will be highly regarded 
 
 ## Running App
 
